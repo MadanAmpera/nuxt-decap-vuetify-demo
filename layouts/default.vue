@@ -34,42 +34,42 @@
   import { useRouter } from 'vue-router'
 
   const items = [
-    {
-      title: 'About Me',
-      value: 'about-me',
-    },
-    {
-      title: 'Research',
-      value: 'research',
-    },
-    {
-      title: 'Media',
-      value: 'media',
-    },
-    {
-      title: 'Guest Invitation',
-      value: 'guest-invitation',
-    },
-    {
-      title: 'Travel Updates',
-      value: 'travel-updates',
-    },
-    {
-      title: 'Book Appointment',
-      value: 'book-appointment',
-    },
-    {
-      title: 'Student Feedback',
-      value: 'student-feedback',
-    },
-    {
-      title: 'Testimonials',
-      value: 'testimonials',
-    },
-    {
-      title: 'Contact Us',
-      value: 'contact-us',
-    },
+    // {
+    //   title: 'About Me',
+    //   value: 'about-me',
+    // },
+    // {
+    //   title: 'Research',
+    //   value: 'research',
+    // },
+    // {
+    //   title: 'Media',
+    //   value: 'media',
+    // },
+    // {
+    //   title: 'Guest Invitation',
+    //   value: 'guest-invitation',
+    // },
+    // {
+    //   title: 'Travel Updates',
+    //   value: 'travel-updates',
+    // },
+    // {
+    //   title: 'Book Appointment',
+    //   value: 'book-appointment',
+    // },
+    // {
+    //   title: 'Student Feedback',
+    //   value: 'student-feedback',
+    // },
+    // {
+    //   title: 'Testimonials',
+    //   value: 'testimonials',
+    // },
+    // {
+    //   title: 'Contact Us',
+    //   value: 'contact-us',
+    // },
   ]
 
   const drawer = ref(false)
